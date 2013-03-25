@@ -20,7 +20,7 @@
 	}
 
 	// Register the fact that we're replacing core functions in this plugin module
-	qa_register_plugin_overrides('qa-userid-overrides.php');
+	qa_register_plugin_overrides('qa-userid-display-overrides.php');
 	
 
 /*
