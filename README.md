@@ -16,7 +16,9 @@ INSTALLATION:
 * Copy to your Question2Answer site's qa-plugin folder
 
 KNOWN ISSUES:
-* none
+* there is a conflict between this change and the Q2A Badges plugin by NoahY that will lead to the badge widget
+  not being displayed for users where their full name is displayed instead of their user handle (ie, they've
+  entered a full name and this plugin is active).
 
 PRE-REQUISITES:
 * none
